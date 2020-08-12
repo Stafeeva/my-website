@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on Natalia Stafeeva</title>
+    <link>/tags/javascript/</link>
+    <description>Recent content in javascript on Natalia Stafeeva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Game - p5</title>
+      <link>/posts/game-project/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/game-project/</guid>
+      <description>A game build with p5 library. https://p5js.org/
+Keys: Space &amp;lt; &amp;gt;
+    </description>
+    </item>
+    
+  </channel>
+</rss>
