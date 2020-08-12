@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://stafeeva.github.io"
 languageCode = "en-us"
 theme = "natalia"
 
