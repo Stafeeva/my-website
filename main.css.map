@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/stafeeva/hugo-home",
+	"sourceRoot": "/Users/stafeeva/workspace/my-website",
 	"sources": [
 		"themes/natalia/assets/scss/main.scss",
 		"themes/natalia/assets/scss/_normalize.scss",
