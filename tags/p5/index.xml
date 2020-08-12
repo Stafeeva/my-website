@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>p5 on Natalia Stafeeva</title>
-    <link>/tags/p5/</link>
+    <link>https://stafeeva.github.io/tags/p5/</link>
     <description>Recent content in p5 on Natalia Stafeeva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/p5/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stafeeva.github.io/tags/p5/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Game - p5</title>
-      <link>/posts/game-project/</link>
+      <link>https://stafeeva.github.io/posts/game-project/</link>
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/game-project/</guid>
+      <guid>https://stafeeva.github.io/posts/game-project/</guid>
       <description>A game build with p5 library. https://p5js.org/
 Keys: Space &amp;lt; &amp;gt;
     </description>
